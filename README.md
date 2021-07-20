@@ -30,6 +30,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 详情页
 [![WNggPJ.gif](https://z3.ax1x.com/2021/07/20/WNggPJ.gif)](https://imgtu.com/i/WNggPJ)
 ### 分类
-[![WNgvsP.gif](https://z3.ax1x.com/2021/07/20/WNgvsP.gif)](https://imgtu.com/i/WNgvsP)
+[![WN5WkV.gif](https://z3.ax1x.com/2021/07/20/WN5WkV.gif)](https://imgtu.com/i/WN5WkV)
 ### 购物车
 [![WN4qJS.gif](https://z3.ax1x.com/2021/07/20/WN4qJS.gif)](https://imgtu.com/i/WN4qJS)
